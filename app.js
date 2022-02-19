@@ -6,7 +6,7 @@ const app = express()
 app.use(cors())
 app.use("/api/v1", router)
 
-app.listen(9000, () => {
+app.listen(process.env.PORT, () => {
     console.log("running at 9000")
 })
 
