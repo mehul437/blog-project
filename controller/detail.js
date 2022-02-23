@@ -170,7 +170,7 @@ const data = [
     {
         author: 'Nicole',
         title: 'Salman Khan’s ‘Bajrangi Bhaijaan’ sequel ',
-        image: 'https://www.anindianews.in/wp-content/uploads/2021/07/Bajrangi-Bhaijaan-2-Salman-Khan.jpeg',
+        image: 'https://i.ytimg.com/vi/88hftQY1boA/maxresdefault.jpg',
         category: 'bollywood',
 
         type: 'post', 
@@ -357,7 +357,7 @@ const data = [
     {
         author: 'Nicole',
         title: '  Intel Launches 12th Gen Intel Core Mobile Processors',
-        image: 'https://techcrunch.com/wp-content/uploads/2022/01/12th-gen-mobile-chip-pose-06-4000px.jpg?w=730&crop=1',
+        image: 'https://digitalmasta.com/wp-content/uploads/2021/01/intel_alder_lake-1024x576.jpg',
         category: 'technology',
         type: 'post',
         description: 'Intel claims to have unveiled the world fastest mobile processor, bringing its performance hybrid architecture to mobile',
